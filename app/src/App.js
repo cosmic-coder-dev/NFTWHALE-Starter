@@ -12,7 +12,7 @@ const App = () => {
   return (
     <>
       <div className="topBanner">
-        <div>🐳 NFT Whales</div>
+        <div>🐳 WHALETRAVERSE</div>
         <div className="menu">
           <Link to="/">
             <div className="menuItem">Home</div>
